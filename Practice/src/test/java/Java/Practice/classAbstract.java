@@ -10,6 +10,8 @@ package Java.Practice;
 	
 	
 	public abstract void methodA();
+
+	public abstract void methodB();
 	
 	public void methodB()
 	{
